@@ -7,3 +7,7 @@ It is used for detecting whether the TRANSACTION that user made WAS FRADULENT OR
 #
 Demo site-
 http://ec2-46-137-228-84.ap-southeast-1.compute.amazonaws.com:8080/
+
+
+<img width="792" alt="Screenshot 2021-06-03 at 22 18 38" src="https://user-images.githubusercontent.com/41751303/120682150-c0593e00-c4b9-11eb-89ab-a0fcf9cadbc1.png">
+
